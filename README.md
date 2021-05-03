@@ -2,13 +2,11 @@
 
 Nesse projeto será criado um banco de dados normalizado com base em um problema de uma loja de jogos online.
 
-## Instruções de uso
+# Instruções de uso
 
-Instalar componentes do backend e frontend (npm i)
-
-Backend na porta 5000
-Frontend na porta 3000
-
+- Instalar componentes do backend e frontend (npm i)
+- Backend na porta 5000
+- Frontend na porta 3000
 
 ## Tecnologia utilizadas 🚀:
 
@@ -16,12 +14,13 @@ Frontend na porta 3000
 * [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 <br>
 <br>
-Instrutora : [Nathally Souza](https://www.linkedin.com/in/nathsouza)
+[Instrutora Nathally Souza](https://www.linkedin.com/in/nathsouza)
 <br>
 <br>
 <br>
-Gostou da ideia? [Me siga nas redes sociais](https://linktr.ee/ygtecnologia)
-
- 🙏 Jeova Jireh - Deus Provera 🙏
-
-## 🚀 Let's code! 🚀
+Me siga nas redes sociais<br>
+https://linktr.ee/ygtecnologia
+<br>
+<br>
+<br>
+🙏 Jeova Jireh - Deus Provera 🙏
